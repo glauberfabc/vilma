@@ -9,5 +9,5 @@ export const IMAGES = {
 
 export const CONTACT_INFO = {
   EMAIL: 'ola@vilmapires.com.br',
-  ADDRESS: 'Rua da Harmonia, 123, Sala 400\nSão Paulo, SP 01234-567',
+  ADDRESS: 'Rua Ministro Calogeras, 157, Sala 3\nSanto André',
 };
