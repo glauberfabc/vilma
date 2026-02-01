@@ -23,8 +23,14 @@ const Philosophy: React.FC = () => {
               Acredito que cada indivíduo possui uma capacidade inata de crescimento e cura. Meu papel é fornecer o apoio e as ferramentas necessárias para que você redescubra essa força.
             </p>
             <p>
-              Nosso trabalho juntos será colaborativo, fundamentado na empatia e adaptado à sua jornada única. Não olharemos apenas para os sintomas; olharemos para a pessoa como um todo — sua história, seu ambiente e suas aspirações.
+              Meu atendimento é integrativo. Além da escuta acolhedora e da análise dos sistemas familiares, utilizo a Mesa Radiônica para sintonizar a sua frequência com seus objetivos. É um trabalho que une mente, sistema e energia para que você sinta a mudança não apenas no entendimento, mas na prática do seu dia a dia.
             </p>
+            <div className="bg-primary/5 p-8 rounded-2xl border border-primary/10 my-8">
+              <h4 className="text-xl font-display font-bold text-primary mb-4">Um olhar que cuida de você por inteiro</h4>
+              <p className="italic text-slate-700 dark:text-slate-300">
+                "Acredito que a mudança profunda nasce do acolhimento. Por isso, meu trabalho não termina na análise do sistema ou na limpeza energética. Com o auxílio dos Florais de Bach, ofereço um suporte emocional personalizado para que você se sinta sustentada e fortalecida enquanto caminha em direção à sua nova postura perante a vida."
+              </p>
+            </div>
           </div>
           <div className="mt-12 flex items-center gap-6">
             <div className="w-16 h-[1.5px] bg-primary/40"></div>
