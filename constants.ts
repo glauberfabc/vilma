@@ -8,6 +8,6 @@ export const IMAGES = {
 };
 
 export const CONTACT_INFO = {
-  EMAIL: 'ola@vilmapires.com.br',
+  WHATSAPP: '+55 11 91722-4584',
   ADDRESS: 'Rua Ministro Calogeras, 157, Sala 3\nSanto André',
 };

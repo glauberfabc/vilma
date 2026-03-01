@@ -28,8 +28,8 @@ const Footer: React.FC = () => {
             <h5 className="font-bold mb-6 tracking-wide">Contato</h5>
             <ul className="space-y-6 text-slate-600 dark:text-slate-400">
               <li className="flex items-start gap-3">
-                <span className="material-icons-outlined text-primary mt-1">email</span>
-                <span className="hover:text-primary transition-colors cursor-pointer">{CONTACT_INFO.EMAIL}</span>
+                <span className="material-icons-outlined text-primary mt-1">phone</span>
+                <span className="hover:text-primary transition-colors cursor-pointer">{CONTACT_INFO.WHATSAPP}</span>
               </li>
               <li className="flex items-start gap-3">
                 <span className="material-icons-outlined text-primary mt-1">location_on</span>
