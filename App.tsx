@@ -5,6 +5,7 @@ import Hero from './components/Hero';
 import Expertise from './components/Expertise';
 import Philosophy from './components/Philosophy';
 import TransformationTools from './components/TransformationTools';
+import QuantumArticle from './components/QuantumArticle';
 import Testimonials from './components/Testimonials';
 import Footer from './components/Footer';
 
@@ -29,6 +30,7 @@ const App: React.FC = () => {
         <Expertise />
         <Philosophy />
         <TransformationTools />
+        <QuantumArticle />
         <Testimonials />
       </main>
       <Footer />
